@@ -1,0 +1,5 @@
+This folder contains the Python implementation of the VCS3 algorithm.
+
+First of all run "python setup.py build_ext --inplace" to compile the .pyx files.
+
+test_speed.py compares offline the performance of 3 different approaches: interpreted approach, cython variable annotations, cython with C bindings. At the end, it print the statistics of the execution time.
