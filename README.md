@@ -9,4 +9,6 @@ Contains example of real-time audio applications developed in Python 3.6
 
 - VCF folder contains the files to test the VCS3 algorithm
 
+- Sine folder contains the files to test the Sine oscillator
+
 - rock.wav is a test waveform.
